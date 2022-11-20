@@ -1,0 +1,15 @@
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.exe
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.deps.json
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.runtimeconfig.json
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.dll
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.pdb
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.AssemblyReference.cache
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfoInputs.cache
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfo.cs
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.dll
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\refint\Examples001_HelloWorld.dll
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.pdb
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.genruntimeconfig.cache
+D:\я\учеба\введение в программирование\Examples\Examples001_HelloWorld\obj\Debug\net6.0\ref\Examples001_HelloWorld.dll
